@@ -1,3 +1,4 @@
+sudo apt update
 sudo apt-get install figlet
 
 # Function to print a string with a delay
